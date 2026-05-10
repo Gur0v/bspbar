@@ -1,7 +1,4 @@
 # bspbar
-<<<<<<< HEAD
-A really fast bar for bspwm
-=======
 
 `bspbar` is a small X11 bar for `bspwm`, written entirely in C.
 
