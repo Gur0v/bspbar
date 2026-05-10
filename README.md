@@ -69,4 +69,3 @@ Keyboard layout is read through XKB, not external shell tools.
 Volume is read natively from PipeWire. The bar follows the default audio sink and converts PipeWire's cubic sink volume into the same percentage style that `wpctl` shows.
 
 The main patch points live in [config.h](/home/gurov/Projects/bspbar/config.h).
->>>>>>> a276098 (Initial commit)
