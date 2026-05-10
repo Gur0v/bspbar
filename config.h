@@ -1,7 +1,7 @@
 #ifndef BSPBAR_CONFIG_H
 #define BSPBAR_CONFIG_H
 
-#define BAR_HEIGHT 26
+#define BAR_HEIGHT 24
 #define LEFT_PADDING 8
 #define RIGHT_PADDING 8
 #define TAG_SPACING 12
