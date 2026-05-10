@@ -2,6 +2,8 @@
 
 `bspbar` is a small X11 bar for `bspwm`, written entirely in C.
 
+![Preview](PREVIEW.png)
+
 It keeps the `mangobar` shape, but the implementation is now native and purpose-built:
 
 - visible desktops on the left
